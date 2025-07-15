@@ -1,6 +1,4 @@
-### For any support, questions, or for anything contact muhammadumar03124701209@gmail.com
 
-### Not a developer? Want a already configured, highly customizable, e-commerce platform? Contact muhammadumar03124701209@gmail.com
 
 # Cezerin is React and Node.js based eCommerce platform. React Shopping Cart.
 
@@ -23,18 +21,6 @@ Cezerin - Ecommerce Progressive Web Apps. Complete Solution.
 - WebPack
 - MongoDB
 
-## Links
-
-- [GitHub](https://github.com/Cezerin2)
-- [Community Site](https://chost.ansiglobal.com)
-- [Demo Store - Plusha Theme](https://plusha.demo.chost.ansiglobal.com)
-- [Demo Store - Default Theme](https://demo.chost.ansiglobal.com)
-- [Demo Dashboard](https://demo.chost.ansiglobal.com/admin)
-- [Telegram Chat: Cezerin](https://t.me/cezerin)
-- [Forum](https://groups.google.com/g/cezerin)
-- [Docs](https://github.com/Cezerin2/Cezerin2/tree/main/docs)
-- [Facebook](https://facebook.com/cezerin)
-- [Twitter](https://twitter.com/cezerin2)
 
 ## Store
 
@@ -93,7 +79,6 @@ Client-side dashboard use JSON Web Token (JWT) to access REST API.
 - API
 
   - [API Reference](./docs/api)
-  - [API Client](https://github.com/cezerin2/cezerin2-client)
 
 - Help
   - [FAQ](./docs/faq.md)
@@ -106,9 +91,6 @@ Client-side dashboard use JSON Web Token (JWT) to access REST API.
 - [Yarn](https://yarnpkg.com/getting-started/install)
 - [MongoDB](https://docs.mongodb.com/manual/installation)
 
-## Documentation
-
-[Documentation](https://github.com/Cezerin2/Cezerin2/tree/main/docs)
 
 ### Quick Start
 
@@ -116,7 +98,7 @@ Client-side dashboard use JSON Web Token (JWT) to access REST API.
 
 If you have installed above requirements,
 
-1. [Download code](https://github.com/Cezerin2/Cezerin2/archive/refs/heads/main.zip)
+1. [Download code](https://github.com/gowine423/Cezerin2/archive/refs/heads/main.zip)
 2. Extract code, update config at config folder as you need and run setup.sh on the folder
 3. To setup required mongodb collections you will need to run `yarn setup` from command line in the folder
 
@@ -185,7 +167,7 @@ Anyone can file an expense. If the expense makes sense for the development of th
 Thank you to all the people who have already contributed to cezerin2!
 
 <img src="https://github.com/ekarailiev.png" alt="Emil K." height="36" style="border-radius: 100%" />
-<a href="https://github.com/Cezerin2/cezerin2/graphs/contributors"><img src="https://opencollective.com/cezerin2/contributors.svg?width=890" /></a>
+<a href="https://github.com/gowine423/cezerin2/graphs/contributors"><img src="https://opencollective.com/cezerin2/contributors.svg?width=890" /></a>
 
 ## Contributing
 
